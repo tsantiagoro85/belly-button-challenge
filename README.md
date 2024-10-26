@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-The present repo contains the Java script code needed to build an interactive dashboard to explore a modified belly button biodiversity dataset, which catalogs the microbes that colonize human navels. 
+The present repo contains the Java script code needed to build an interactive dashboard to explore a modified belly button biodiversity dataset, which catalogs the microbes that colonize human navels. Results can be visualized using HTML as the frontend language.
 
 The dataset reveals that a small proportion of bacterial species, refer to here as Operational Taxonomic Units (OTUs) were present in more than 70% of people, while the rest were relatively rare, and potentially unique to each individual. 
 
